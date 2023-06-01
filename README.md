@@ -1,4 +1,4 @@
-# Algorithmic Trading Strategy Project
+# Algorithmic Trading Strategy
 
 This project implements a simple momentum-based trading strategy for the Indian equity market.
 
